@@ -1,0 +1,4 @@
+Allez dans le fichier ch4.html.
+Une variable pass a été initialisé.
+vous verrez qu'avant que le mot de passe soit accepté, il doit subir la fonction unescape.
+
