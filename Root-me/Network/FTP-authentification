@@ -1,0 +1,2 @@
+Download the ch1.pcap file and open it with wireshark.
+Analysing record, we can find the Password in one FTP request.

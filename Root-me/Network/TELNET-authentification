@@ -1,0 +1,3 @@
+First, download the ch2.pcap file.
+OPen it with wireshark and did a filtred by telnet.
+When analysing, we can found a malformmed Packet (suspicious); then we can have our flag by following the Tcp flow .

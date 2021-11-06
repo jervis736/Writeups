@@ -1,0 +1,5 @@
+This is a Zone transfert.
+
+I then decided to use dig command, which is network tool. (man dig)
+
+dig axfr @dns-server 
