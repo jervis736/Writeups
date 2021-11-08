@@ -1,0 +1,9 @@
+After downloading the ch18.bin file, we can open it with wireshark.
+
+
+The flag is the sha1 of the concatenation of the MAC address (uppercase) and the phone name.
+
+-First we can find the mac address in the request of type HCI_EVT(RCVD connect request), put it in uppercase 
+-we can find an request of type HCI_EVT(RCVD Remote name request).
+
+concat the both of them and hash it in sha1.
