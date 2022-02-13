@@ -3,3 +3,6 @@ This is a Zone transfert.
 I then decided to use dig command, which is network tool. (man dig)
 
 dig axfr @dns-server 
+
+dig axfr ch11.challenge01.root-me.org @challenge01.root-me.org -p 54011
+
